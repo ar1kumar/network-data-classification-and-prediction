@@ -1,0 +1,9 @@
+#File extensions
+*.csv
+*.out
+*.log
+*.txt
+
+#Folders
+/compare_data
+/tensorflow_knn
